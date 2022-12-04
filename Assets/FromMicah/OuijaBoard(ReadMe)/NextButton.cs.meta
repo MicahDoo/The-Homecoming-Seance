@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b0a21e663d76c64aa5732a906122bb2
+timeCreated: 1609370012
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ringMoveControl: {fileID: 114591458495590208, guid: c21b2db8db5fa594e9de65414b4886d0,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

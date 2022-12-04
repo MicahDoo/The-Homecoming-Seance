@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d1ad0a96dc070b40a7131e067bd5743
+timeCreated: 1609574808
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - directoryLine: {fileID: 1349977180006026, guid: 106eee1bd6222844ba38c528c65934e2,
+      type: 2}
+  - responseLine: {fileID: 1745130731447970, guid: 90d2f94e076e1d545bdbee6d83763997,
+      type: 2}
+  - terminalInput: {instanceID: 0}
+  - userInputLine: {fileID: 1440630828553968, guid: 88c7de6fdfb577e48aafb39b98cb5fb2,
+      type: 2}
+  - sr: {instanceID: 0}
+  - messageList: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

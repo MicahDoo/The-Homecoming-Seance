@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd187c7a2c116ee4e8a32dcaaef38c65
+timeCreated: 1608341993
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spotlight: {fileID: 108220155873342838, guid: 877818f8fbe76914d8dd8ed3f495c9a7,
+      type: 2}
+  - secondSpotlight: {fileID: 108212317725684192, guid: 877818f8fbe76914d8dd8ed3f495c9a7,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c4410e2ecb65a144286dd4197e70049a
+timeCreated: 1607860855
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OuijaPiece: {fileID: 4108007390470598, guid: 4530a453657765c40aeda6eaf83c110b,
+      type: 2}
+  - _dotPrefab: {fileID: 114233172921282376, guid: 4ec243d119744a8459032371ee0bb390,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
